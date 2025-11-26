@@ -1,16 +1,15 @@
 h1 {
-    color:  blue; /* màu chữ xanh */
-    text-align: center; /* căn giữa */
-    font-size: 13px; /* cỡ chữ 13 */
+    color: red;
+    text-align: center;
 }
-p:first-of-type {
-    color: gold; /* màu chữ vàng */
-    font-size: 13px; /* cỡ chữ 13 */
-    font-family: Arial; /* font Arial */
+.p1 {
+    color: yellow; 
+    font-size: 13px; 
+    font-family: Arial, sans-serif; 
 }
-p:last-of-type {
-    background-color: yellow; /* màu nền vàng */
-    font-weight: bold; /* in đậm */
-    font-size: 13px; /* cỡ chữ 13 */
-    font-family: 'Times New Roman', serif; /* font Times New Roman */
-}
+.p2 {
+    background-color: yellow;
+    font-weight: bold;
+    font-size: 13px;
+    font-family: "Times New Roman", serif;
+    padding: 5px;
