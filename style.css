@@ -1,0 +1,16 @@
+h1 {
+    color:  blue; /* màu chữ xanh */
+    text-align: center; /* căn giữa */
+    font-size: 13px; /* cỡ chữ 13 */
+}
+p:first-of-type {
+    color: gold; /* màu chữ vàng */
+    font-size: 13px; /* cỡ chữ 13 */
+    font-family: Arial; /* font Arial */
+}
+p:last-of-type {
+    background-color: yellow; /* màu nền vàng */
+    font-weight: bold; /* in đậm */
+    font-size: 13px; /* cỡ chữ 13 */
+    font-family: 'Times New Roman', serif; /* font Times New Roman */
+}
